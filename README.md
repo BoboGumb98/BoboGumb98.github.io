@@ -1,7 +1,5 @@
 
-<picture>
- <img alt="YOUR-ALT-TEXT" src=BoboGumb98.io/image/IMG_1782.JPG>
-</picture>
+![PROFILE_PHOTO](/BoboGumb98.github.io/image/IMG_1782.png)
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
