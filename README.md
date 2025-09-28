@@ -16,3 +16,5 @@
 
 Favorite Quote
 > *"Everything will be ok in the end. If it's not ok, it's not the end."*
+
+## Current Job: Lead Instructor/IT Consultant @ [Battlespace Idaho](https://battlespaceidaho.com)
