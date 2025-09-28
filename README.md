@@ -1,6 +1,3 @@
-# BoboGumb98.github.io
-
-Completing the final course assignments for CS155.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
