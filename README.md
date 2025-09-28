@@ -1,4 +1,4 @@
-!(Profile_Photo)[image/IMG_1782.JPG]
+![image/IMG_1782.JPG](https://github.com/BoboGumb98/BoboGumb98.github.io/blob/main/image/IMG_1782.JPG?raw=true)
 
 | Rank | Hobbies |
 |-----:|---------------|
