@@ -17,8 +17,8 @@ description: [Bookmark this to keep an eye on my project updates!]
 ### This is a <sup>superscript</sup> text
 ### This is an <ins>underlined</ins> text
 
-### Text that is not a quote
-### > Text that is a quote
+Text that is not a quote
+> Text that is a quote
 
 ### Some basic Git commands are:
 ```
