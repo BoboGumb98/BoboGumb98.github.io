@@ -8,6 +8,13 @@ Completing the final course assignments for CS155.
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|   Thing 1     |
+|     2|   Thing 2     |
+|     3|   Thing 3     |
+
+
 ## Testing Styling text:
 ### **Bold**
 ### *Italic*
