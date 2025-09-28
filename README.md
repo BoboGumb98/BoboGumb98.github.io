@@ -1,4 +1,4 @@
-
+!(Profile_Photo)[image/IMG_1782.JPG]
 
 | Rank | Hobbies |
 |-----:|---------------|
