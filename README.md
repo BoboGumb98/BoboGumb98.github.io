@@ -1,5 +1,5 @@
 
-![PROFILE_PHOTO](/BoboGumb98.github.io/image/IMG_1782.png)
+![PROFILE_PHOTO](/image/IMG_1782.png)
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
